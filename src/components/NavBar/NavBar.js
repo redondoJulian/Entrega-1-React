@@ -1,5 +1,4 @@
 import './NavBar.css'
-import img from './logo.png'
 import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 
 import React from 'react'
@@ -9,7 +8,6 @@ class Header extends React.Component {
         return(
             <header className='flex-conteiner'>
                 <div className='logo flex-conteiner'>
-                    {/* <img src={img} alt="logo"></img> */}
                     <h1>Julishop</h1>
                 </div>
                 <ul className='flex-conteiner'>

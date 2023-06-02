@@ -2,6 +2,7 @@
   "name": "primera-preentrega-react",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://redondojulian.github.io/Entrega-1-React/build",
   "dependencies": {
     "@emotion/react": "^11.11.0",
     "@emotion/styled": "^11.11.0",
