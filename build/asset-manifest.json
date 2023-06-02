@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Entrega-1-React/build/static/css/main.ce3cbf7a.css",
+    "main.js": "/Entrega-1-React/build/static/js/main.2db153e6.js",
+    "index.html": "/Entrega-1-React/build/index.html",
+    "main.ce3cbf7a.css.map": "/Entrega-1-React/build/static/css/main.ce3cbf7a.css.map",
+    "main.2db153e6.js.map": "/Entrega-1-React/build/static/js/main.2db153e6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce3cbf7a.css",
+    "static/js/main.2db153e6.js"
+  ]
+}

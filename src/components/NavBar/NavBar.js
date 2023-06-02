@@ -11,10 +11,10 @@ class Header extends React.Component {
                     <h1>Julishop</h1>
                 </div>
                 <ul className='flex-conteiner'>
-                    <li><a href="#">Inicio</a></li>
-                    <li><a href="#">Productos</a></li>
-                    <li><a href="#">Contacto</a></li>
-                    <li><a href="https://www.coderhouse.com/" target='_blank' className='coder'>Coderhouse</a></li>
+                    <li><a href="./none">Inicio</a></li>
+                    <li><a href="./none">Productos</a></li>
+                    <li><a href="./none">Contacto</a></li>
+                    <li><a href="https://www.coderhouse.com/" rel="noreferrer" target='_blank' className='coder'>Coderhouse</a></li>
                 </ul>
                 <div className='carrito flex-conteiner'>
                     <ShoppingCartIcon/>
