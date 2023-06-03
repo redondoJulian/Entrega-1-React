@@ -1,7 +1,7 @@
 import './NavBar.css'
-import ShoppingCartIcon from '@mui/icons-material/ShoppingCart';
 
 import React from 'react'
+import CartWidget from './CartWidget.jsx'
 
 class Header extends React.Component {
     render(){
@@ -16,10 +16,7 @@ class Header extends React.Component {
                     <li><a href="./none">Contacto</a></li>
                     <li><a href="https://www.coderhouse.com/" rel="noreferrer" target='_blank' className='coder'>Coderhouse</a></li>
                 </ul>
-                <div className='carrito flex-conteiner'>
-                    <ShoppingCartIcon/>
-                    <span>0</span>
-                </div>
+                <CartWidget/>
             </header>
         )
     }
